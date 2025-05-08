@@ -107,31 +107,31 @@ Mostra conexões ativas (se houver), como simulações de serviços ou respostas
 
 ### 🔌 Topologia da Rede
 > Estrutura completa com os 2 PCs, switch e roteador conectados.
-![Topologia da Rede]()
+![Topologia da Rede](https://raw.githubusercontent.com/DurezahGeek/ping-tracert-netstat/refs/heads/main/src/visao.png)
 
 ---
 
 ### 💻 PC Desenvolvimento – Configuração de Rede
 > Mostra o modelo, IP, MAC Address e Gateway configurado no PC1.
-![PC1 Detalhes]()
+![PC1 Detalhes](https://raw.githubusercontent.com/DurezahGeek/ping-tracert-netstat/refs/heads/main/src/devv.png)
 
 ---
 
 ### 💻 PC Infraestrutura – Configuração de Rede
 > Mostra o modelo, IP, MAC Address e Gateway configurado no PC2.
-![PC2 Detalhes]()
+![PC2 Detalhes](https://raw.githubusercontent.com/DurezahGeek/ping-tracert-netstat/refs/heads/main/src/infra.png)
 
 ---
 
 ### 📶 Switch Detalhes
 > Apresenta o modelo do switch (2960) e as portas que estão conectadas aos dispositivos.
-![Switch Detalhes]()
+![Switch Detalhes](https://raw.githubusercontent.com/DurezahGeek/ping-tracert-netstat/refs/heads/main/src/switch.png)
 
 ---
 
 ### 🌐 Roteador Detalhes
 > Informações do roteador (1841), portas conectadas e IP configurado na interface.
-![Roteador Detalhes]()
+![Roteador Detalhes](https://raw.githubusercontent.com/DurezahGeek/ping-tracert-netstat/refs/heads/main/src/router.png)
 
 
 ## 📂 Arquivos Incluídos
